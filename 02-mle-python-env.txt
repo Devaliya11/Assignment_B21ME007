@@ -1,0 +1,14 @@
+﻿python -m venv myenv
+
+
+.\myenv\Scripts\activate
+
+
+source myenv/bin/activate
+
+
+pip install numpy matplotlib 
+
+
+import numpy
+import matplotlib
